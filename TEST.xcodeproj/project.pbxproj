@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		373CD6781BE2017D0018241F /* PhoneNo.m in Sources */ = {isa = PBXBuildFile; fileRef = 373CD6771BE2017D0018241F /* PhoneNo.m */; };
+		373CD67A1BE205DF0018241F /* countries.json in Resources */ = {isa = PBXBuildFile; fileRef = 373CD6791BE205DF0018241F /* countries.json */; };
+		373CD67E1BE21A700018241F /* Verification_code.m in Sources */ = {isa = PBXBuildFile; fileRef = 373CD67D1BE21A700018241F /* Verification_code.m */; };
+		373CD6801BE21ACC0018241F /* kinnect2-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 373CD67F1BE21ACC0018241F /* kinnect2-logo.png */; };
+		373CD6831BE21B4A0018241F /* Firstpage.m in Sources */ = {isa = PBXBuildFile; fileRef = 373CD6821BE21B4A0018241F /* Firstpage.m */; };
+		373CD6861BE21B820018241F /* Signup.m in Sources */ = {isa = PBXBuildFile; fileRef = 373CD6851BE21B820018241F /* Signup.m */; };
+		373CD68B1BE21B920018241F /* LeftMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 373CD6881BE21B920018241F /* LeftMenuViewController.m */; };
+		373CD68C1BE21B920018241F /* RghtPanel_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 373CD68A1BE21B920018241F /* RghtPanel_ViewController.m */; };
+		373CD6911BE21DD80018241F /* EventDetailView-ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 373CD6901BE21DD80018241F /* EventDetailView-ViewController.m */; };
 		7040852D1BBD61BA00E7C6E3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7040852C1BBD61BA00E7C6E3 /* main.m */; };
 		704085301BBD61BA00E7C6E3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7040852F1BBD61BA00E7C6E3 /* AppDelegate.m */; };
 		704085331BBD61BA00E7C6E3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 704085321BBD61BA00E7C6E3 /* ViewController.m */; };
@@ -74,6 +83,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		373CD6761BE2017D0018241F /* PhoneNo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhoneNo.h; sourceTree = "<group>"; };
+		373CD6771BE2017D0018241F /* PhoneNo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhoneNo.m; sourceTree = "<group>"; };
+		373CD6791BE205DF0018241F /* countries.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = countries.json; sourceTree = "<group>"; };
+		373CD67C1BE21A700018241F /* Verification_code.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Verification_code.h; sourceTree = "<group>"; };
+		373CD67D1BE21A700018241F /* Verification_code.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Verification_code.m; sourceTree = "<group>"; };
+		373CD67F1BE21ACC0018241F /* kinnect2-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kinnect2-logo.png"; sourceTree = "<group>"; };
+		373CD6811BE21B4A0018241F /* Firstpage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Firstpage.h; sourceTree = "<group>"; };
+		373CD6821BE21B4A0018241F /* Firstpage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Firstpage.m; sourceTree = "<group>"; };
+		373CD6841BE21B820018241F /* Signup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Signup.h; sourceTree = "<group>"; };
+		373CD6851BE21B820018241F /* Signup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Signup.m; sourceTree = "<group>"; };
+		373CD6871BE21B920018241F /* LeftMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LeftMenuViewController.h; sourceTree = "<group>"; };
+		373CD6881BE21B920018241F /* LeftMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LeftMenuViewController.m; sourceTree = "<group>"; };
+		373CD6891BE21B920018241F /* RghtPanel_ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RghtPanel_ViewController.h; sourceTree = "<group>"; };
+		373CD68A1BE21B920018241F /* RghtPanel_ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RghtPanel_ViewController.m; sourceTree = "<group>"; };
+		373CD68F1BE21DD80018241F /* EventDetailView-ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "EventDetailView-ViewController.h"; sourceTree = "<group>"; };
+		373CD6901BE21DD80018241F /* EventDetailView-ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "EventDetailView-ViewController.m"; sourceTree = "<group>"; };
 		704085271BBD61BA00E7C6E3 /* TEST.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TEST.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7040852B1BBD61BA00E7C6E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7040852C1BBD61BA00E7C6E3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -158,6 +183,51 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		373CD67B1BE21A0B0018241F /* SB1 */ = {
+			isa = PBXGroup;
+			children = (
+				704085311BBD61BA00E7C6E3 /* ViewController.h */,
+				704085321BBD61BA00E7C6E3 /* ViewController.m */,
+				70C3BB611BBFD0A80099D728 /* DashboardVC.h */,
+				70C3BB621BBFD0A80099D728 /* DashboardVC.m */,
+				70C428121BD0E11A007B3914 /* ProfileVC.h */,
+				70C428131BD0E11A007B3914 /* ProfileVC.m */,
+				70C100FE1BC2716000049C08 /* DBCell.h */,
+				70C100FF1BC2716000049C08 /* DBCell.m */,
+				70E11E511BCB945E0046FB87 /* DBPCell.h */,
+				70E11E521BCB945E0046FB87 /* DBPCell.m */,
+			);
+			name = SB1;
+			sourceTree = "<group>";
+		};
+		373CD68E1BE21BB60018241F /* Menu */ = {
+			isa = PBXGroup;
+			children = (
+				373CD6871BE21B920018241F /* LeftMenuViewController.h */,
+				373CD6881BE21B920018241F /* LeftMenuViewController.m */,
+				373CD6891BE21B920018241F /* RghtPanel_ViewController.h */,
+				373CD68A1BE21B920018241F /* RghtPanel_ViewController.m */,
+			);
+			name = Menu;
+			sourceTree = "<group>";
+		};
+		373CD6921BE222B00018241F /* SB2 */ = {
+			isa = PBXGroup;
+			children = (
+				373CD6761BE2017D0018241F /* PhoneNo.h */,
+				373CD6771BE2017D0018241F /* PhoneNo.m */,
+				373CD67C1BE21A700018241F /* Verification_code.h */,
+				373CD67D1BE21A700018241F /* Verification_code.m */,
+				373CD6811BE21B4A0018241F /* Firstpage.h */,
+				373CD6821BE21B4A0018241F /* Firstpage.m */,
+				373CD6841BE21B820018241F /* Signup.h */,
+				373CD6851BE21B820018241F /* Signup.m */,
+				373CD68F1BE21DD80018241F /* EventDetailView-ViewController.h */,
+				373CD6901BE21DD80018241F /* EventDetailView-ViewController.m */,
+			);
+			name = SB2;
+			sourceTree = "<group>";
+		};
 		7040851E1BBD61BA00E7C6E3 = {
 			isa = PBXGroup;
 			children = (
@@ -181,25 +251,19 @@
 			children = (
 				7040852E1BBD61BA00E7C6E3 /* AppDelegate.h */,
 				7040852F1BBD61BA00E7C6E3 /* AppDelegate.m */,
-				704085311BBD61BA00E7C6E3 /* ViewController.h */,
-				704085321BBD61BA00E7C6E3 /* ViewController.m */,
-				70C3BB611BBFD0A80099D728 /* DashboardVC.h */,
-				70C3BB621BBFD0A80099D728 /* DashboardVC.m */,
-				70C428121BD0E11A007B3914 /* ProfileVC.h */,
-				70C428131BD0E11A007B3914 /* ProfileVC.m */,
-				70C100FE1BC2716000049C08 /* DBCell.h */,
-				70C100FF1BC2716000049C08 /* DBCell.m */,
-				70E11E511BCB945E0046FB87 /* DBPCell.h */,
-				70E11E521BCB945E0046FB87 /* DBPCell.m */,
 				704085341BBD61BA00E7C6E3 /* Main.storyboard */,
+				373CD67B1BE21A0B0018241F /* SB1 */,
+				373CD6921BE222B00018241F /* SB2 */,
+				373CD68E1BE21BB60018241F /* Menu */,
+				70CA70271BC3D87700CA120A /* Buttons */,
 				70C428151BD102A7007B3914 /* Red_sunset.jpg */,
 				70C177311BCCF902008277C6 /* ProfilePhoto.jpg */,
 				70E11E541BCB98C60046FB87 /* iphone6plus.jpeg */,
 				70E11E561BCBBC590046FB87 /* iphone6plus copy.jpeg */,
-				70CA70271BC3D87700CA120A /* Buttons */,
 				704085371BBD61BA00E7C6E3 /* Images.xcassets */,
 				704085391BBD61BA00E7C6E3 /* LaunchScreen.xib */,
 				70D7B8AD1BBE99C200091662 /* dashboard.jpg */,
+				373CD6791BE205DF0018241F /* countries.json */,
 				7040852A1BBD61BA00E7C6E3 /* Supporting Files */,
 			);
 			path = TEST;
@@ -244,6 +308,7 @@
 				70CA6FE21BC3D82F00CA120A /* chat-normal.png */,
 				70CA6FE31BC3D82F00CA120A /* chat-tap.png */,
 				70CA6FE41BC3D82F00CA120A /* comment-normal.png */,
+				373CD67F1BE21ACC0018241F /* kinnect2-logo.png */,
 				70CA6FE51BC3D82F00CA120A /* comment-tap.png */,
 				70CA6FE61BC3D82F00CA120A /* contacts-normal.png */,
 				70CA6FE71BC3D82F00CA120A /* contacts-tap.png */,
@@ -361,6 +426,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				373CD6801BE21ACC0018241F /* kinnect2-logo.png in Resources */,
 				70CA701A1BC3D82F00CA120A /* like-tap.png in Resources */,
 				70D7B8AE1BBE99C200091662 /* dashboard.jpg in Resources */,
 				70CA700F1BC3D82F00CA120A /* dashboard-normal.png in Resources */,
@@ -379,6 +445,7 @@
 				70C177321BCCF902008277C6 /* ProfilePhoto.jpg in Resources */,
 				70CA701F1BC3D82F00CA120A /* polls.png in Resources */,
 				70CA70231BC3D82F00CA120A /* settings.png in Resources */,
+				373CD67A1BE205DF0018241F /* countries.json in Resources */,
 				70CA70221BC3D82F00CA120A /* search-normal.png in Resources */,
 				70CA701B1BC3D82F00CA120A /* menu-normal.png in Resources */,
 				70CA701E1BC3D82F00CA120A /* music.png in Resources */,
@@ -426,11 +493,18 @@
 			files = (
 				70C428141BD0E11A007B3914 /* ProfileVC.m in Sources */,
 				70E11E531BCB945E0046FB87 /* DBPCell.m in Sources */,
+				373CD6911BE21DD80018241F /* EventDetailView-ViewController.m in Sources */,
+				373CD6861BE21B820018241F /* Signup.m in Sources */,
 				704085331BBD61BA00E7C6E3 /* ViewController.m in Sources */,
+				373CD67E1BE21A700018241F /* Verification_code.m in Sources */,
+				373CD6781BE2017D0018241F /* PhoneNo.m in Sources */,
 				70C3BB631BBFD0A80099D728 /* DashboardVC.m in Sources */,
 				704085301BBD61BA00E7C6E3 /* AppDelegate.m in Sources */,
 				70C101001BC2716000049C08 /* DBCell.m in Sources */,
 				7040852D1BBD61BA00E7C6E3 /* main.m in Sources */,
+				373CD68C1BE21B920018241F /* RghtPanel_ViewController.m in Sources */,
+				373CD68B1BE21B920018241F /* LeftMenuViewController.m in Sources */,
+				373CD6831BE21B4A0018241F /* Firstpage.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
